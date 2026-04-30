@@ -137,6 +137,6 @@ Possíveis evoluções para próximas versões:
 
 ## Autor
 
-Pedro Kauã
+Pedro Lima
 
 Projeto criado para evolução em backend Java e construção de portfólio profissional.
